@@ -4,8 +4,9 @@ A page to take notes on
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
     ## Table of Contents
-- [Project Descrition](#Description)
-- [Install/Usage](#Installation)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
 - [Contributions](#Contributions)
 - [Questions](#Questions)
 - [License](#License)
